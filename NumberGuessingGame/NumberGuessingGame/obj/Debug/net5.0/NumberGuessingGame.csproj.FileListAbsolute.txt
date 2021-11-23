@@ -1,0 +1,16 @@
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.exe
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.deps.json
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.runtimeconfig.json
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.runtimeconfig.dev.json
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.dll
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\ref\NumberGuessingGame.dll
+I:\NumberGuessingGame\NumberGuessingGame\bin\Debug\net5.0\NumberGuessingGame.pdb
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.csproj.AssemblyReference.cache
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.AssemblyInfoInputs.cache
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.AssemblyInfo.cs
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.dll
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\ref\NumberGuessingGame.dll
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.pdb
+I:\NumberGuessingGame\NumberGuessingGame\obj\Debug\net5.0\NumberGuessingGame.genruntimeconfig.cache
